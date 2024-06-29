@@ -1,0 +1,15 @@
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.AssemblyInfoInputs.cache
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.AssemblyInfo.cs
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.csproj.CoreCompileInputs.cache
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.sourcelink.json
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\bin\Debug\net8.0\TestProjects.exe
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\bin\Debug\net8.0\TestProjects.deps.json
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\bin\Debug\net8.0\TestProjects.runtimeconfig.json
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\bin\Debug\net8.0\TestProjects.dll
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\bin\Debug\net8.0\TestProjects.pdb
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.dll
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\obj\Debug\net8.0\refint\TestProjects.dll
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.pdb
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\obj\Debug\net8.0\TestProjects.genruntimeconfig.cache
+D:\Foundation of C#\Loop-projects\CSharpProjects\TestProjects\obj\Debug\net8.0\ref\TestProjects.dll
