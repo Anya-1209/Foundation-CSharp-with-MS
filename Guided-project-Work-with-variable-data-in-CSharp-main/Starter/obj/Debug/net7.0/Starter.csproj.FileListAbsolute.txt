@@ -1,0 +1,15 @@
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.sourcelink.json
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.exe
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.deps.json
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.dll
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.pdb
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.dll
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\refint\Starter.dll
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.pdb
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+D:\Foundation of C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\ref\Starter.dll
